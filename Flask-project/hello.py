@@ -30,6 +30,7 @@ graph = get_default_graph()
 
 global names_top_artists
 names_top_artists = load('names_top_artists.joblib')
+
 #colors = []
 #color_codes = dict(zip(names_top_artists, colors))
 

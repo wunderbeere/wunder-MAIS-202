@@ -1,70 +1,87 @@
 {
   "Vincent van Gogh" : {
     "biography" : "Vincent van Gogh, one of the most well-known post-impressionist artists, for whom color was the chief symbol of expression, was born in Groot-Zundert, Holland on March 30, 1853. During his brief career, he did not experience much success, he sold only one painting, lived in poverty, malnourished and overworked. Van Gogh's finest works were produced in less than three years in a technique that grew more and more impassioned in brush stroke, in symbolic and intense color, in surface tension, and in the movement and vibration of form and line. In spite of his lack of success during his lifetime, van Gogh's legacy lives on having left a lasting impact on the world of art. Van Gogh is now viewed as one of the most influential artists having helped lay the foundations of modern art.",
-    "source" : "www.vangoghgallery.com"
+    "source" : "www.vangoghgallery.com",
+    "color" : "lemonchiffon"
   },
   "Edgar Degas" : {
     "biography" : "One of the founders of the Impressionist movement, Edgar Degas was a prominent artist in the last half of the 19th century. Born to wealthy family, he began his schooling with a baccalaureate in literature in 1853. Due to the wishes of his father, who wanted him to go to law school, he enrolled at the University of Paris in 1853 to pursue a law degree, where he made little effort. Degas, who at age 18 had transformed one of the rooms is his house into a studio, and was a registered copyist at the Louvre by 1853, left law school after two years, and a year later traveled to Italy studying the art of the great masters.",
-    "source" : "www.wikiart.org"
+    "source" : "www.wikiart.org",
+    "color" : "powderblue"
   },
   "Pablo Picasso" : {
     "biography" : "Pablo Picasso is probably the most important figure of the 20th century, in terms of art, and art movements that occurred over this period. Before the age of 50, the Spanish born artist had become the most well-known name in modern art, with the most distinct style and eye for artistic creation. Picasso's ability to produce works in an astonishing range of styles made him well respected during his own lifetime. As an artist and an innovator, he is responsible for co-founding the entire Cubist movement alongside Georges Braque. Cubism was an avant-garde art movement that changed forever the face of European painting and sculpture while simultaneously affecting contemporary architecture, music and literature. Picasso is also credited with inventing constructed sculpture and co-inventing the collage art style.",
-    "source" : "www.pablopicasso.org"
+    "source" : "www.pablopicasso.org",
+    "color" : "lightsalmon"
   },
   "Pierre-Auguste Renoir" : {
     "biography" : "Pierre Auguste Renoir was a French artist, and was a leading painter of the Impressionist style. As a young boy, he worked in a porcelain factory. His drawing skills were early recognized, and he was soon employed to create designs on the fine china. He also painted decorations on fans before beginning art school . He moved to Paris in 1862 to study art, where he met Frederic Bazille, Claude Monet, and Alfred Sisley, all great impressionist painters. By 1864, he was exhibiting works at the Paris Salon, but his works went largely unnoticed for the next ten years, mostly in part to the disorder caused by the Franco-Prussian War.",
-    "source" : "www.wikiart.org"
+    "source" : "www.wikiart.org",
+    "color" : "lightgreen"
   },
   "Paul Gauguin" : {
     "biography" : "Paul Gauguin styled himself and his art as \"savage.\" Although he began his artistic career with the Impressionists in Paris, during the late 1880s he fled farther and farther from urban civilization in search of an edenic paradise where he could create pure, \"primitive\" art. Yet his self-imposed exile to the South Seas was not so much an escape from Paris as a bid to become the new leader of the Parisian avant-garde. Gauguin cultivated and inhabited a dual image of himself as, on the one hand, a wolfish wild man and on the other, a sensitive martyr for art. His notoriety helped to promote his astonishing work, which freed color from mimetic representation and distorted form for expressive purposes. Gauguin pioneered the Symbolist art movement in France and set the stage for Fauvism and Expressionism.",
-    "source" : "www.metmuseum.org"
+    "source" : "www.metmuseum.org",
+    "color" : "coral"
   },
   "Francisco Goya" : {
-    "biography" : "bla",
-    "source" : "blabla"
+    "biography" : "Francisco José de Goya y Lucientes (1746–1828) is regarded as the most important Spanish artist of the late eighteenth and early nineteenth centuries. Over the course of his long career, Goya moved from jolly and lighthearted to deeply pessimistic and searching in his paintings, drawings, etchings, and frescoes. Dissatisfied with political developments in Spain, Goya retired to Bordeaux in 1824 under the guise of seeking medical advice. His final years were spent there and in Paris.",
+    "source" : "www.metmuseum.org/",
+    "color" : "burlywood"
   },
   "Rembrandt" : {
-    "biography" : "bla",
-    "source" : "blabla"
+    "biography" : "Rembrandt Harmenszoon van Rijn was a Dutch draughtsman, painter, and printmaker. An innovative and prolific master in three media, he is generally considered one of the greatest visual artists in the history of art and the most important in Dutch art history. Unlike most Dutch masters of the 17th century, Rembrandt's works depict a wide range of style and subject matter, from portraits and self-portraits to landscapes, genre scenes, allegorical and historical scenes, and biblical and mythological themes as well as animal studies. His contributions to art came in a period of great wealth and cultural achievement that historians call the Dutch Golden Age, when Dutch art, although in many ways antithetical to the Baroque style that dominated Europe, was extremely prolific and innovative and gave rise to important new genres.",
+    "source" : "www.artsandculture.google.com/",
+    "color" : "peru"
   },
   "Alfred Sisley" : {
-    "biography" : "bla",
-    "source" : "blabla"
+    "biography" : "Recognised as one of the masters of the Impressionist landscape, Alfred Sisley was born in Paris to English parents, affluent merchants who intended him to go into commerce. He, however, chose to devote himself to painting, and with the exception of a few visits to England, spent his whole life in France. He differed his Impressionist friends in his concern for composition, his taste for open skies and his fondness for views with a road or a path stretching into the distance. However, he was never successful during his lifetime in spite of the support of several art dealers.",
+    "source" : "www.musee-orangerie.fr/en/",
+    "color" : "lightcyan"
   },
   "Titian" : {
-    "biography" : "bla",
-    "source" : "blabla"
+    "biography" : "Titian was the greatest painter of 16th-century Venice, and the first painter to have a mainly international clientele. During his long career, he experimented with many different styles of painting which embody the development of art during his epoch. He rapidly became the principal painter to the imperial court [of the Holy Roman Emperor Charles V], which gave him immense privileges, honours and even titles. From this moment he was the painter most in demand at courts across Europe. Titian also became the official painter of Charles V's son, Philip II of Spain. Starting in about 1551, he painted the celebrated mythological series of pictures for Philip, which he referred to as 'poesie'.",
+    "source" : "www.nationalgallery.org.uk",
+    "color" : "tan"
   },
   "Marc Chagall" : {
-    "biography" : "bla",
-    "source" : "blabla"
+    "biography" : "Marc Zakharovich Chagall (6 July 1887 - 28 March 1985) was a Russian-French artist of Belarusian Jewish origin. An early modernist, he was associated with several major artistic styles and created works in virtually every artistic format, including painting, book illustrations, stained glass, stage sets, ceramic, tapestries and fine art prints. Using the medium of stained glass, he produced windows for the cathedrals of Reims and Metz, windows for the UN, and the Jerusalem Windows in Israel. He also did large-scale paintings, including part of the ceiling of the Paris Opera.",
+    "source" : "www.wikiart.org",
+    "color" : "turquoise"
   },
   "Rene Magritte" : {
-    "biography" : "bla",
-    "source" : "blabla"
+    "biography" : "Clouds, pipes, bowler hats, and green apples: these remain some of the most immediately recognizable icons of René Magritte, the Belgian painter and well-known Surrealist. He produced a body of work that rendered such commonplace things strange, slotting them into unfamiliar or uncanny scenes, or deliberately mislabeling them in order to 'make the most everyday objects shriek aloud'. With his pictorial and linguistic puzzles, Magritte made the familiar disturbing and strange, posing questions about the nature of representation and reality.",
+    "source" : "www.moma.org",
+    "color" : "wheat"
   },
   "Amedeo Modigliani" : {
-    "biography" : "bla",
-    "source" : "blabla"
+    "biography" : "Amedeo Modigliani was the epitome of a tragic artist. Born to a bourgeois family in Italy, he later shunned his academic upbringing and willingly devolved into a poverty stricken vagabond. He was formally educated as a life painter in his teens, quickly developing a life-long infatuation with nudes. In 1902 he moved to Florence to study at the Academia di Belle Arti, at the 'Free School of Nude Studies,' and a year later he moved to Venice as a fledgling artist, where he smoked hashish for the first time. It was only after he discovered narcotics that he developed the philosophical belief that the only path to creativity was through defiance of social norms and disorder in life.",
+    "source" : "www.wikiart.org",
+    "color" : "navajowhite"
   },
   "Paul Klee" : {
-    "biography" : "bla",
-    "source" : "blabla"
+    "biography" : "Paul Klee was a Swiss born painter, with a unique style that was influenced by expressionism, cubism, surrealism, and orientalism. His written collections of lectures, Writings on Form and Design Theory are considered as important to modern art as Leonardo da Vinci's written works were to the Renaissance. As a child, Klee was mainly oriented as a musician, having played the violin since he was eight, but in his teen years, he found that art allowed him freedom to explore his style and express his radical ideas.",
+    "source" : "www.wikiart.org",
+    "color" : "salmon"
   },
   "Henri Matisse" : {
-    "biography" : "bla",
-    "source" : "blabla"
+    "biography" : "Throughout his decades-long career as a painter, sculptor, draftsman, and printmaker, Henri Matisse continuously searched, in his own words, 'for the same things, which I have perhaps realized by different means.' Celebrated as both an orchestrator of tonal harmonies and a draftsman capable of distilling a form to its essentials, he long sought a way to unite color and line in his work.",
+    "source" : "www.moma.org",
+    "color" : "lightcyan"
   },
   "Andy Warhol" : {
-    "biography" : "bla",
-    "source" : "blabla"
+    "biography" : "Andy Warhol (August 6, 1928 - February 22, 1987) was an American artist, director and producer who was a leading figure in the visual art movement known as pop art. His works explore the relationship between artistic expression, celebrity culture, and advertising that flourished by the 1960s, and span a variety of media, including painting, silkscreening, photography, film, and sculpture. Some of his best known works include the silkscreen paintings Campbell's Soup Cans (1962) and Marilyn Diptych (1962), the experimental film Chelsea Girls (1966), and the multimedia events known as the Exploding Plastic Inevitable (1966-67).",
+    "source" : "www.wikiart.org",
+    "color" : "tomato"
   },
   "Mikhail Vrubel" : {
-    "biography" : "bla",
-    "source" : "blabla"
+    "biography" : "Mikhail Aleksandrovich Vrubel (March 17, 1856 - April 14, 1910) is usually regarded amongst the Russian painters of the Symbolist movement and of Art Nouveau. In reality, he deliberately stood aloof from contemporary art trends, so that the origin of his unusual manner should be sought in Late Byzantine and Early Renaissance painting.",
+    "source" : "www.wikiart.org",
+    "color" : "thistle"
   },
   "Sandro Botticelli" : {
-    "biography" : "bla",
-    "source" : "blabla"
+    "biography" : "At the height of his fame, the Florentine painter and draughtsman Sandro Botticelli was one of the most esteemed artists in Italy. His graceful pictures of the Madonna and Child, his altarpieces and his life-size mythological paintings, such as 'Venus and Mars', were immensely popular in his lifetime. The son of a tanner, he was born Alessandro di Mariano Filipepi, but he was given the nickname 'Botticelli' (derived from the word 'botticello' meaning 'small wine cask'). Smart beyond his years, the young Botticelli became easily bored at school. He was known for his sharp wit and his love of practical jokes, and he quickly earned a reputation as a restless, hyperactive and impatient child. Fortunately, his precocious talent was recognised and he was withdrawn from school and sent to work as an apprentice.",
+    "source" : "www.nationalgallery.org.uk",
+    "color" : "palegoldenrod"
   }
 }
