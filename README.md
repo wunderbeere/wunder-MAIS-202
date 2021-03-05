@@ -27,6 +27,8 @@ Install the webapp and run it
 ```
 git clone https://github.com/wunderbeere/wunder-MAIS-202
 
+cd wunder-MAIS-202
+
 pip install -r requirements.txt
 
 cd Flask-project
